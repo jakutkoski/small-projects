@@ -1,2 +1,1 @@
-# small-projects
-Small programs, projects, and apps in various languages.
+# Small Projects written by Joseph Kutkoski (jakutkoski)
